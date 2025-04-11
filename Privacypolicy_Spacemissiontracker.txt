@@ -1,4 +1,13 @@
-Privacy Policy for Space Mission Tracker
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KiJi Works Space Mission Tracker</title>
+</head>
+<body style="background-color: black; color: white; margin: 0; padding: 10px; font-family: Arial, sans-serif;">
+    <h1 align="center">Welcome to the Space Mission Tracker!</h1>
+    <p align="center">Privacy Policy for Space Mission Tracker</p>
 
 Last Updated: April 11, 2025
 
@@ -29,3 +38,5 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 If you have any questions or concerns about this Privacy Policy or the App, please contact us at:
 Email: kiji_workshop@outlook.com
 
+</body>
+</html>
